@@ -1,16 +1,12 @@
-### Hi there 👋
+###  Full Stack Developer Based in Denver CO
+  * Open for work 
+  * Denver Flatiorn Software Engineer graduate 2020 
+  * I love to pair program and working as a team
+  * I Love to ski, run, and mountain bike ⛷ 🏃🏼‍♂️ 🚵🏼‍♂️
+  * Background in outdoor retail sales
+  * Pronouns are He/Him
 
-<!--
-**alexanderjessediaz/alexanderjessediaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages and tools:
+React, Rails, Javascript, HTML, CSS, Bootstrap, and SQL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Linkedin: https://www.linkedin.com/in/alexander-jesse-diaz/
